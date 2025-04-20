@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoupleApp</string>
+    <string name="main_message">Gracias por estar en mi vida ❤️</string>
+    <string name="start_journey">Ver nuestros recuerdos</string>
+    
+    <!-- Títulos de memorias -->
+    <string name="memory_1_title">Nuestro Primer Encuentro</string>
+    <string name="memory_2_title">Momentos Especiales</string>
+    <string name="memory_3_title">Aventuras Juntos</string>
+    
+    <!-- Descripciones de memorias -->
+    <string name="memory_1_desc">El día que nuestros caminos se cruzaron y comenzó nuestra historia de amor…</string>
+    <string name="memory_2_desc">Cada momento contigo es único y especial, lleno de risas y amor…</string>
+    <string name="memory_3_desc">Juntos creamos los más hermosos recuerdos, construyendo nuestro futuro…</string>
+    
+    <!-- Mensajes de navegación -->
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="back_to_start">Volver al inicio</string>
+</resources>
